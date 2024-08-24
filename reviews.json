@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Engaging lectures and fair grading. Highly recommended!"
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Brilliant instructor who makes complex topics easy to understand."
+      },
+      {
+        "professor": "Dr. Sarah Thompson",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Interesting material, but assignments can be unclear at times."
+      },
+      {
+        "professor": "Prof. David Rodriguez",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Challenging course, but Dr. Rodriguez is always willing to help."
+      },
+      {
+        "professor": "Dr. Amelia Patel",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Excellent lab sessions and thorough explanations. A fantastic educator!"
+      },
+      {
+        "professor": "Prof. Robert Wilson",
+        "subject": "History",
+        "stars": 2,
+        "review": "Lectures are dry and the workload is excessive."
+      },
+      {
+        "professor": "Dr. Lisa Anderson",
+        "subject": "English Literature",
+        "stars": 4,
+        "review": "Passionate about the subject and encourages critical thinking."
+      },
+      {
+        "professor": "Prof. James Lee",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Knowledgeable, but sometimes struggles to explain complex concepts."
+      },
+      {
+        "professor": "Dr. Olivia Martinez",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Thought-provoking discussions and relevant course material."
+      },
+      {
+        "professor": "Prof. Thomas Brown",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Clear explanations and helpful office hours. Exams are tough but fair."
+      },
+      {
+        "professor": "Dr. Emma Wright",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Passionate and knowledgeable. Makes the subject come alive!"
+      },
+      {
+        "professor": "Prof. Alexander Kim",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Interesting topics, but lectures can be disorganized at times."
+      },
+      {
+        "professor": "Dr. Rachel Green",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Engaging field trips and practical assignments. Very informative."
+      },
+      {
+        "professor": "Prof. Daniel Taylor",
+        "subject": "Philosophy",
+        "stars": 2,
+        "review": "Difficult to follow and grading seems arbitrary."
+      },
+      {
+        "professor": "Dr. Sophia Nguyen",
+        "subject": "Linguistics",
+        "stars": 5,
+        "review": "Fascinating course content and an enthusiastic instructor."
+      },
+      {
+        "professor": "Prof. William Evans",
+        "subject": "Business Administration",
+        "stars": 4,
+        "review": "Practical insights and good use of real-world examples."
+      },
+      {
+        "professor": "Dr. Julia Cohen",
+        "subject": "Anthropology",
+        "stars": 3,
+        "review": "Intriguing material, but the pace of the course is a bit slow."
+      },
+      {
+        "professor": "Prof. Samuel Jackson",
+        "subject": "Theater Arts",
+        "stars": 5,
+        "review": "Inspiring and supportive. Brings out the best in his students."
+      },
+      {
+        "professor": "Dr. Elizabeth White",
+        "subject": "Geology",
+        "stars": 4,
+        "review": "Well-organized lectures and interesting lab work. Recommended!"
+      },
+      {
+        "professor": "Prof. Ryan Murphy",
+        "subject": "Music Theory",
+        "stars": 3,
+        "review": "Knowledgeable instructor, but the course can be challenging for beginners."
+      }
+    ]
+  }
